@@ -1,0 +1,13 @@
+flutter config --enable-web
+
+flutter create app_name
+
+flutter doctor
+
+flutter run
+
+flutter -h 
+
+flutter devices 
+
+flutter emulators
